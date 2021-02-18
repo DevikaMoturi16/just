@@ -1,4 +1,4 @@
-# Configuration file for the Sphinx documentation builder.
+i# Configuration file for the Sphinx documentation builder.
 #
 # This file only contains a selection of the most common options. For a full
 # list see the documentation:
@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'social'
+copyright = '2020, Devika'
+author = 'Devika'
 
 # The full version, including alpha/beta/rc tags
 release = ''
